@@ -1,0 +1,11 @@
+Average WPS: 46.40042846285239
+25th Percentile (Q1): 44.32144279572309
+75th Percentile (Q3): 49.5544035414725
+
+Average Latency: 701.0791666666667 ms
+25th Percentile (Q1): 485.5 ms
+75th Percentile (Q3): 812.25 ms
+
+Average Total Time: 1178.5375 ms
+25th Percentile (Q1): 1006.5 ms
+75th Percentile (Q3): 1302.0 ms

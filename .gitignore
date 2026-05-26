@@ -1,0 +1,12 @@
+*.pyc
+
+client/logs/
+
+report/*
+!report/dialogue-tree.*
+!report/llm-interaction.*
+!report/references.bib
+!report/report.tex
+!report/suspect-responses.*
+!report/system-diagram.*
+!report/ui.png
